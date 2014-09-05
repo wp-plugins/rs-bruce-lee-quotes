@@ -1,10 +1,10 @@
 === RS Bruce Lee Quotes ===
 Tags: quotes, widget
 Requires at least: 3.8
-Tested up to: 3.9
+Tested up to: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 A plugin for displaying a random quote by Bruce Lee, on your site via a widget
 
@@ -26,6 +26,9 @@ Simply add the RS Bruce Lee Quotes Widget to your required place and a quote wil
 
 
 == Changelog ==
+
+= 1.0.1 =
+* Spelling mistakes in quotes, testing for 4.0
 
 = 1.0 =
 * First version of plugin

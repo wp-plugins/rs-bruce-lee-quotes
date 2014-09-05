@@ -181,7 +181,7 @@ class Bruce {
 			('Obey the principles without being bound by them.'),
 			('If you love life, don\'t waste time, for time is what life is made up of.'),
 			('Don\'t fear failure. Not failure, but low aim, is the crime. In great attempts, it is glorious even to fail.'),
-			('There are no limits. There are plateaus, nut you must not stay there, you must go beyond them.'),
+			('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.'),
 			('Adapt what is useful, reject what is useless and add what is specifically your own.'),
 			('Reality is apparent when one ceases to compare.'),
 			('Absorb what is useful, discard what is not, add what is uniquely your own.'),
