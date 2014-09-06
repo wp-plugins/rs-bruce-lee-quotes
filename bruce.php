@@ -3,7 +3,7 @@
  * Plugin Name:       RS Bruce Lee Quotes
  * Plugin URI:        http://www.rstandley.co.uk
  * Description:       A plugin for displaying a random quote by Bruce Lee, on your site via a widget
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Rory Standley
  * Author URI:        http://www.rstandley.co.uk
  */
